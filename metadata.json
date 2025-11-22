@@ -1,0 +1,5 @@
+{
+  "name": "Teaching Board AI",
+  "description": "An interactive online teaching whiteboard featuring drawing tools, math instruments (ruler, protractor), and Gemini AI integration for OCR, math solving, and TikZ diagram generation.",
+  "requestFramePermissions": []
+}
